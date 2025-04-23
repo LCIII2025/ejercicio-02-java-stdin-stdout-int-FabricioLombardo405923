@@ -12,12 +12,12 @@ public class App
     {
         Scanner scan = new Scanner(System.in);
         int a = scan.nextInt();
-        // Complete this line
-        // Complete this line
+        int a2 = scan.nextInt();
+        int a3 = scan.nextInt();
 
         System.out.println(a);
-        // Complete this line
-        // Complete this line
+        System.out.println(a2);
+        System.out.println(a3);
 
     }
 }
